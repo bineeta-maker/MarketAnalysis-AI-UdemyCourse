@@ -1,0 +1,10 @@
+# MarketAnalysis-AI-UdemyCourse
+
+tasked to create targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups
+ 
+* Part-1: PERFORM EXPLORATORY DATA ANALYSIS AND DATA CLEANING
+* Part-2: UNDERSTAND AND APPLY K-MEANS CLUSTERING WITH ELBOW METHOD
+* Part-3: APPLY PRINCIPAL COMPONENT ANALYSIS AND VISUALIZE THE RESULTS
+* Part-4: UNDERSTAND AUTOENCODERS, BUILD AND TRAIN AUTOENCODERS, PERFORM DIMENSIONALITY REDUCTION USING AUTOENCODERS AND REDO K_MEANS CLUSTERING
+
+Data Source : https://www.kaggle.com/kyanyoga/sample-sales-data
